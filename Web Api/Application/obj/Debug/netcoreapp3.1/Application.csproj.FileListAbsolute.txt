@@ -1,0 +1,26 @@
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\bin\Debug\netcoreapp3.1\Application.dll
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\bin\Debug\netcoreapp3.1\Application.pdb
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\bin\Debug\netcoreapp3.1\Persistence.dll
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\bin\Debug\netcoreapp3.1\Persistence.pdb
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\obj\Debug\netcoreapp3.1\Application.dll
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Application\obj\Debug\netcoreapp3.1\Application.pdb
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\bin\Debug\netcoreapp3.1\Application.dll
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\bin\Debug\netcoreapp3.1\Application.pdb
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\bin\Debug\netcoreapp3.1\Persistence.dll
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\bin\Debug\netcoreapp3.1\Persistence.pdb
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\obj\Debug\netcoreapp3.1\Application.dll
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Application\obj\Debug\netcoreapp3.1\Application.pdb

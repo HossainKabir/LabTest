@@ -1,0 +1,30 @@
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\bin\Debug\netcoreapp3.1\Application.dll
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\bin\Debug\netcoreapp3.1\Persistence.dll
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\bin\Debug\netcoreapp3.1\Application.pdb
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\bin\Debug\netcoreapp3.1\Persistence.pdb
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\bin\Debug\netcoreapp3.1\Application.dll
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\bin\Debug\netcoreapp3.1\Persistence.dll
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\bin\Debug\netcoreapp3.1\Application.pdb
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\bin\Debug\netcoreapp3.1\Persistence.pdb
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

@@ -1,0 +1,28 @@
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\bin\Release\netcoreapp3.1\Persistence.deps.json
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\bin\Release\netcoreapp3.1\Persistence.runtimeconfig.json
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\bin\Release\netcoreapp3.1\Persistence.runtimeconfig.dev.json
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\bin\Release\netcoreapp3.1\Persistence.dll
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\bin\Release\netcoreapp3.1\Persistence.pdb
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\bin\Release\netcoreapp3.1\Domain.dll
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\bin\Release\netcoreapp3.1\Domain.pdb
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\obj\Release\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\obj\Release\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\obj\Release\netcoreapp3.1\Persistence.AssemblyInfo.cs
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\obj\Release\netcoreapp3.1\Persistence.csproj.CopyComplete
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\obj\Release\netcoreapp3.1\Persistence.dll
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\obj\Release\netcoreapp3.1\Persistence.pdb
+F:\Personal Docs\Task From PrideSys\frabbi_ju-educationalinstitutesolution-dbcd4b47ca48\Persistence\obj\Release\netcoreapp3.1\Persistence.genruntimeconfig.cache
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\bin\Release\netcoreapp3.1\Persistence.deps.json
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\bin\Release\netcoreapp3.1\Persistence.runtimeconfig.json
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\bin\Release\netcoreapp3.1\Persistence.runtimeconfig.dev.json
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\bin\Release\netcoreapp3.1\Persistence.dll
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\bin\Release\netcoreapp3.1\Persistence.pdb
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\bin\Release\netcoreapp3.1\Domain.dll
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\bin\Release\netcoreapp3.1\Domain.pdb
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\obj\Release\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\obj\Release\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\obj\Release\netcoreapp3.1\Persistence.AssemblyInfo.cs
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\obj\Release\netcoreapp3.1\Persistence.csproj.CopyComplete
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\obj\Release\netcoreapp3.1\Persistence.dll
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\obj\Release\netcoreapp3.1\Persistence.pdb
+F:\Personal Docs\Task From PrideSys\PrideSysLabTask\Web Api\Persistence\obj\Release\netcoreapp3.1\Persistence.genruntimeconfig.cache
