@@ -4,6 +4,8 @@ import { JwtHelperService } from '@auth0/angular-jwt';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { map } from 'rxjs/operators';
 import { FormGroup } from '@angular/forms';
+import { TokenService } from './token.service';
+import { Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -18,7 +20,7 @@ export class AuthService {
     'responseType': 'json',
     'Access-Control-Allow-Origin': '*'
   });
-  constructor(private http: HttpClient) { }
+  constructor(private http: HttpClient,private token:TokenService) { }
 
   login(model: any) {
     return this.http.post(this.baseUrl + 'login', model, { headers: this.headers }).pipe(
@@ -40,6 +42,11 @@ export class AuthService {
     const token = localStorage.getItem('token');
     return !this.jwtHelper.isTokenExpired(token);
   }
+
+  getUser():Observable<any> {
+    debugger;
+    return this.http.get<any[]>(this.baseUrl + 'getUser', { headers: this.token.headerToken() });
+}
 
 
 }

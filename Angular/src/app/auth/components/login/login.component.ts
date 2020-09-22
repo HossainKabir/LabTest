@@ -55,10 +55,11 @@ export class LoginComponent implements OnInit {
     this.loading = true;
     this.authService.login(this.loginForm.value).subscribe(
       next => {
-        
+
         this.alertify.success('Login successfully!');
         console.log('Login successfully!');
         this.loading = false;
+        this.router.navigate(['/dashboard']);
       },
       error => {
         this.alertify.error('Failed to login!');
@@ -66,8 +67,12 @@ export class LoginComponent implements OnInit {
       },
       () => {
         this.loading = false;
-        window.location.reload();
-        this.router.navigate(['/dashboard']);
+       
+        this.router.navigateByUrl('/RefreshComponent', { skipLocationChange: true }).then(() => {
+          this.router.navigate(['/dashboard']);
+        });
+        //location.reload();
+        //this.router.navigate(['/dashboard']);
       }
     );
     // this.accountService.login(this.f.username.value, this.f.password.value)

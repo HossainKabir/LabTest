@@ -1,1 +1,30 @@
-<p>user-list works!</p>
+<div class="container">
+    <div class="card text-center">
+        <div class="card-header">
+          User List
+          <a href="/register" target="_blank" class="btn btn-outline-primary float-right ">Add New User</a>
+        </div>
+        <div class="card-body">
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                  <th scope="col">#</th>
+                  <th scope="col">Full Name</th>
+                  <th scope="col">Mobile Number</th>
+                  <th scope="col">Email</th>
+                  <th scope="col">Address</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr *ngFor="let user of userList; index as i">
+                  <th scope="row">{{ i + 1 }}</th>
+                  <td>{{ user.fullName }}</td>
+                  <td>{{ user.phoneNumber }}</td>
+                  <td>{{ user.userName }}</td>
+                  <td>{{ user.address }}</td>
+                </tr>
+                </tbody>
+              </table>
+        </div>
+      </div>
+</div>

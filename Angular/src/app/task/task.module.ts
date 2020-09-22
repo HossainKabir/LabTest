@@ -7,6 +7,7 @@ import { TaskListComponent } from './components/task-list/task-list.component';
 import { BsModalModule, BsModalService } from 'ng2-bs3-modal';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { NgSelectConfig, NgSelectModule } from '@ng-select/ng-select';
 @NgModule({
   declarations: [CreateOrEditTaskComponent, TaskListComponent],
   imports: [
@@ -16,11 +17,14 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     NgbModule,
     FormsModule,
     ReactiveFormsModule,
+    NgSelectModule,
+    
   ], exports: [
     CreateOrEditTaskComponent, TaskListComponent, BsModalModule,
-    NgbModule,
+    NgbModule,NgSelectModule
   ], providers: [
-    BsModalService
+    BsModalService,
+    NgSelectConfig,
   ],
   entryComponents:[
     CreateOrEditTaskComponent

@@ -1,14 +1,3 @@
-<!-- <body>
-  <nav>
-    <app-header></app-header>
-  </nav>
-  <main class="flex-fill">
-
-  </main>
-  <footer>
-    
-  </footer>
-</body> -->
 <app-header *ngIf='!isloggedIn'></app-header>
 <app-after-login-header *ngIf='isloggedIn'></app-after-login-header>
 <router-outlet></router-outlet>

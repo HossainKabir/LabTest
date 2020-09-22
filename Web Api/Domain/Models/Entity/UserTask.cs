@@ -11,6 +11,7 @@ namespace Domain.Models.Entity
         public string Description { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
-        public ICollection<AppUser> Users { get; set; }
+        public string AppUserId { get; set; }
+        public AppUser Users { get; set; }
     }
 }

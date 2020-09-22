@@ -9,6 +9,7 @@ import { SharedModule } from './shared/shared.module';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { JwtModule } from '@auth0/angular-jwt';
 import { AlertifyService } from './service/alert.service';
+import { NgSelectConfig,NgSelectModule } from '@ng-select/ng-select';
 
 
 export function tokenGetter() {
@@ -27,6 +28,7 @@ export function tokenGetter() {
     TaskModule,
     SharedModule,
     FormsModule,
+    NgSelectModule,
     JwtModule.forRoot({
       config: {
         tokenGetter:tokenGetter,
@@ -37,6 +39,7 @@ export function tokenGetter() {
   ],
   providers: [
     AlertifyService,
+    NgSelectConfig
   ],
   bootstrap: [AppComponent]
 })

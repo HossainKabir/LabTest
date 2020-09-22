@@ -5,7 +5,28 @@
           <a href="javascript:;" (click)="openModal()" class="btn btn-outline-primary float-right ">Add New Task</a>
         </div>
         <div class="card-body">
-        
+          <table class="table table-striped">
+            <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Task Name</th>
+              <th scope="col">Description</th>
+              <th scope="col">Start Date</th>
+              <th scope="col">End Date</th>
+              <th scope="col">Assign User</th>
+            </tr>
+            </thead>
+            <tbody>
+              <tr ><td aria-colspan="3">No Task Available</td> </tr>
+            <!-- <tr *ngFor="let user of userList; index as i">
+              <th scope="row">{{ i + 1 }}</th>
+              <td>{{ user.fullName }}</td>
+              <td>{{ user.phoneNumber }}</td>
+              <td>{{ user.userName }}</td>
+              <td>{{ user.address }}</td>
+            </tr> -->
+            </tbody>
+          </table>
         </div>
       </div>
 </div>

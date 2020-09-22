@@ -1,11 +1,12 @@
+<form [formGroup]="taskForm" (ngSubmit)="onSubmit()">
 <div class="modal-header">
-    <h5 class="modal-title">Modal title</h5>
+    <h5 class="modal-title">Add New Task</h5>
     <button type="button" class="close" data-dismiss="modal" (click)="closeModal('dismiss')">
         <span aria-hidden="false">&times;</span>
     </button>
 </div>
+
 <div class="modal-body">
-    <form [formGroup]="taskForm" (ngSubmit)="onSubmit()">
                 <div class="form-group">
                     <label>Task Name</label>
                     <input type="text" formControlName="taskName" class="form-control"
@@ -24,7 +25,7 @@
                 </div>
                 <div class="form-group">
                     <label>Start Date</label>
-                    <input type="text" ngbDatepicker [footerTemplate]="footerTemplate"  formControlName="startDate" class="form-control"
+                    <input type="date" ngbDatepicker [footerTemplate]="footerTemplate"  formControlName="startDate" class="form-control"
                         [ngClass]="{ 'is-invalid': submitted && f.startDate.errors }" />
                     <div *ngIf="submitted && f.startDate.errors" class="invalid-feedback">
                         <div *ngIf="f.startDate.errors.required">Start Date is required</div>
@@ -32,15 +33,23 @@
                 </div>
                 <div class="form-group">
                     <label>End Date</label>
-                    <input type="phoneNumber" ngbDatepicker [footerTemplate]="footerTemplate"  formControlName="endDate" class="form-control"
+                    <input type="date" ngbDatepicker [footerTemplate]="footerTemplate"  formControlName="endDate" class="form-control"
                         [ngClass]="{ 'is-invalid': submitted && f.endDate.errors }" />
                     <div *ngIf="submitted && f.endDate.errors" class="invalid-feedback">
                         <div *ngIf="f.endDate.errors.required">End Date is required</div>
                     </div>
                 </div>
-    </form>
+                <div class="form-group">
+                    <label>User</label>
+                    <select class="form-control" formControlName="user">
+                        <option disabled>Select User</option>
+                        <option *ngFor="let user of userList" value="{{user.id}}">{{user.fullName}}</option>
+                      </select>
+    </div>
+
 </div>
 <div class="modal-footer">
     <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="closeModal('close')">Close</button>
     <button type="submit" class="btn btn-primary">Save</button>
 </div>
+</form>
