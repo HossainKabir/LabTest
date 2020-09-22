@@ -14,11 +14,10 @@ export class AfterLoginHeaderComponent implements OnInit {
   ngOnInit() {
   }
   singOut() {
-    this.router.navigate(['/login']);
     localStorage.setItem('token', "");
-    this.router.navigateByUrl('/RefreshComponent', { skipLocationChange: true }).then(() => {
-      this.router.navigate(['/login']);
-    });
-    location.reload();
+    this.router.navigate(['/login'])
+      .then(() => {
+        window.location.reload();
+      });
   }
 }
