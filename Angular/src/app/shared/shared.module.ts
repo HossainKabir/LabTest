@@ -7,6 +7,8 @@ import { FooterComponent } from './components/footer/footer.component';
 import { HttpClientModule } from '@angular/common/http';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { AfterLoginHeaderComponent } from './components/after-login-header/after-login-header.component';
+import { AuthModule } from '../../app/auth/auth.module';
+import { TaskModule } from '../../app/task/task.module';
 
 
 @NgModule({
@@ -14,13 +16,15 @@ import { AfterLoginHeaderComponent } from './components/after-login-header/after
   imports: [
     CommonModule,
     SharedRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    AuthModule,
+    TaskModule
   ],
   exports: [
     HeaderComponent,
     FooterComponent,
     HttpClientModule,
-    DashboardComponent, 
+    DashboardComponent,
     AfterLoginHeaderComponent
   ]
 })
